@@ -38,3 +38,4 @@ Boat extends Vehicle = {
   'model': ENUM = 'Small'
 }
 
+5-Dockerize the solution with a docker-compose file.
